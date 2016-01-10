@@ -8,5 +8,3 @@
 
 # make sure that your code contains comments explaining your logic!
 
-def helloworld():
-    # write your code inside this indented area
