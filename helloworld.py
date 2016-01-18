@@ -14,7 +14,7 @@ print() #this will display a blank line
 print('Type one of the numbers below and I will greet you in that language!')
 print('    1. Spanish')
 print('    2. Chinese')
-print('    3. Huttese') # Huttese is the language of the Huts in StarWars!
+print('    3. Italian')
 
 choice = input() # This is an assignment statement, the user makes a choice by typing a number. That input is assigned to the word 'choice' which is used to determine if the "if" statement is true or false. 
 
@@ -22,8 +22,8 @@ if choice == str(1): # If the user types the number 1 this statement would be tr
     print('Hola!')
 if choice == str(2): 
     print('Ni Hao')
-if choice == str(3): #previous if statements are made false by users input, and the input = 3 then the huttese greeting will display!
-    print('Achuta!')
+if choice == str(3): #previous if statements are made false by users input, and the input = 3 then the italian greeting will display!
+    print('Ciao!')
 
 
 
