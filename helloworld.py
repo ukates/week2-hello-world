@@ -24,9 +24,3 @@ if choice == str(2):
     print('Ni Hao')
 if choice == str(3): #previous if statements are made false by users input, and the input = 3 then the italian greeting will display!
     print('Ciao!')
-
-
-
-
-    
-    
